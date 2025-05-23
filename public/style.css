@@ -1,0 +1,17 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #d6e4ec;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+   }
+   .header {
+    background-color: #33aadd;
+    padding: 10px;
+    font-size: 24px;
+    font-weight: bold;
+    color: #000;
+   }
+   .profile-container {
+    padding: 20px;
+   }
